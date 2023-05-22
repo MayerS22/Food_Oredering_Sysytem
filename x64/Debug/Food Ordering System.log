@@ -1,0 +1,12 @@
+﻿  Food Ordering System.cpp
+E:\Food Ordering System\Food Ordering System.cpp(192,10): warning C4101: 'choice': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(641,13): warning C4101: 'quantity': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(642,10): warning C4101: 'con': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(642,15): warning C4101: 'size': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(838,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Food Ordering System\Food Ordering System.cpp(844,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Food Ordering System\Food Ordering System.cpp(886,9): warning C4101: 'u': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(996,21): warning C4101: 'qty': unreferenced local variable
+E:\Food Ordering System\Food Ordering System.cpp(292): warning C4715: 'Register': not all control paths return a value
+E:\Food Ordering System\Food Ordering System.cpp(405): warning C4715: 'login': not all control paths return a value
+  Food Ordering System.vcxproj -> E:\Food Ordering System\x64\Debug\Food Ordering System.exe
